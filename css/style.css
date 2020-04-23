@@ -1,0 +1,87 @@
+.tamImagem
+{
+    width: 250px !important;
+    height: auto !important;
+}
+
+.textCard
+{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+.lista
+{
+    border: 0 !important;
+    border-bottom: 1px solid black !important;
+    border-radius: 0 !important;
+    margin: 5px;
+    padding-bottom: 2px;
+}
+
+a:link {
+    text-decoration:none;
+    }
+a:visited {
+    text-decoration:none;
+    }
+a:hover {
+    text-decoration:none;
+    }
+
+.foto_pet
+{
+        width: 50%;
+        height: 30%;
+}
+
+.espaco{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.bnt-custom{
+    background: #ff75b4;
+    padding: 1px 15px 3px 2px;
+    border-radius: 50px;
+    top: 50%;
+    left: 50%;
+    bottom: 50%;
+    right: 50%;
+
+}
+.titulo{
+    position: relative;
+    top: -180px;
+    left: -10px;
+    font-size: 63px;
+}
+.subTitulo{
+    position: relative;
+    top: -170px;
+    left: -10px;
+    font-size: 30px;
+}
+.bemVindo{
+    position: relative;
+    top: -470px;
+    left: -40px;
+    font-size: 35px;
+}
+.bCategoria{
+    position: relative;
+    top: -150px;
+    left: 850px;
+}
+
+.escurecer
+{
+    opacity:1;
+}
+
+.escurecer:hover
+{
+    opacity:0.5;
+}
